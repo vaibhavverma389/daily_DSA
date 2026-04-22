@@ -29,8 +29,8 @@ public class subset {
     }
     public static void main(String[] args) {
         String str="abc";
-        // findsubsets(str,"",0);
-        findpermurations(str,"");
+        findsubsets(str,"",0);
+        // findpermurations(str,"");
         
     }
     
